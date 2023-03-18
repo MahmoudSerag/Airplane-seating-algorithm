@@ -1,10 +1,8 @@
-# Description
+# Airplane seating algorithm
 
 <font size="3">Write a program that helps seat audiences in a flight based on the following input and rules.</font>
 
-## Problem name
-
-<font size="3">Airplane seating algorithm</font> 
+<font size="3"></font> 
 
 ## Rules for seating
 
@@ -45,7 +43,3 @@ O(n * rows * columns)
 ### Space explanation
 
 <font size="3">Function creates a 2D array of strings (seatingChart) with dimensions rows x cols to represent the seating chart. The space used by the other variables (seatedPassengers and passenger) is constant and does not depend on the input size, so they do not contribute to the space complexity.</font>
-
-## License
-
-Nest is [MIT licensed](LICENSE).
