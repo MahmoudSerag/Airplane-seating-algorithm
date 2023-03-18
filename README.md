@@ -4,7 +4,7 @@
 
 ## Problem name
 
-<font size="3">This is my text number1</font> 
+<font size="3">Airplane seating algorithm</font> 
 
 ## Rules for seating
 
